@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm SiNsterV</h1>
 
 <p align="center">
-Electronics & Communications Student • Embedded Systems • Software & Hardware Builder
+Electronics & Communications Student • Embedded Systems • Software & Hardware Builder • FrontEnd in React
 </p>
 
 <p align="center">
