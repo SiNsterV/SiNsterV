@@ -83,8 +83,6 @@ Features:
 • Web interface with **graphs and live values**
 • Hosted on a **self-managed server environment**
 
-🌐 https://vn-server.eu
-
 ---
 
 ## 🖥 Self-Hosted Personal Server
