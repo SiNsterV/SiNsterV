@@ -113,7 +113,7 @@ Planned features include:
 
 ## 🔄 `.nsa` File Converter
 
-A Python tool that converts proprietary **Notein `.nsa` files** into readable **PDF documents**.
+A Python tool that converts proprietary **Noteshelf `.nsa` files** into readable **PDF documents**. and syncs them from **your google drive**.
 
 # 🏆 GitHub Achievements
 
